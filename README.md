@@ -1,5 +1,5 @@
 # amazon-product-review-analysis
-It pulls the reviews on amazon for a particular product and do the analysis that if it's original or fake on the basis of reviews.
+It pulls the reviews on amazon for a particular product and check weather the product is genuine or not on the basis of user reviews.
 
 Step 1: Install scrapy in your system pip install scrapy
 
